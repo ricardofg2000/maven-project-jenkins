@@ -1,1 +1,1 @@
-<h1> Hola CETI, ya por fin acabamos... </h1>
+<h1> Hola CETI: prueba polling ... </h1>
