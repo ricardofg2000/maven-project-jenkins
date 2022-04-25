@@ -20,4 +20,5 @@ jobs:
             dns-name-label: galeria
             image: angoies/galeria
             name: galeria
-            location: 'westeurope'
+            location: 'West Europe'
+          
